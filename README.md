@@ -1,3 +1,3 @@
 # Software-Technologies-SoloRepo
 Exercise Repo
-Making changes for conflicts
+Making some changes here:
