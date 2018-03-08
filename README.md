@@ -1,3 +1,3 @@
 # Software-Technologies-SoloRepo
 Exercise Repo
-Making some changes here:
+Making some changes and here:
